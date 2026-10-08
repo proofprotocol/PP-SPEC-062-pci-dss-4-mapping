@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this specification, please cite it."
+title: "PP-SPEC-062: Proof of Efficacy Mapping to PCI DSS v4.0.1"
+type: software
+authors:
+  - family-names: "Ellrod"
+    given-names: "Craig"
+version: "0.1"
+date-released: "2026-10-08"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/proofprotocol/PP-SPEC-062-pci-dss-4-mapping"
+abstract: "An independently authored Proof Protocol mapping connecting PCI DSS v4.0.1 requirement context to independently generated evidence, efficacy measurements, and proof artifacts, using requirement identifiers only and keeping non-empirical requirements distinct from efficacy results."
+keywords:
+  - "Proof Protocol"
+  - "Proof of Efficacy"
+  - "PCI DSS"
+  - "PCI DSS v4.0.1"
+  - "payment card security"
+  - "compliance"
+  - "mapping"
+  - "evidence"
+  - "efficacy"
+  - "proof"
