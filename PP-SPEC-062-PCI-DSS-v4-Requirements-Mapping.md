@@ -116,7 +116,7 @@ PCI DSS is external work owned and published by the PCI Security Standards Counc
 
 Names, marks, and designations including PCI Security Standards Council, PCI SSC, and PCI DSS remain the property of PCI Security Standards Council, LLC. Use of these names in this specification is nominative and descriptive only.
 
-This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY-ND 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
+This Proof Protocol mapping is independently authored and Licensed under the Greater Good Commercial License 1.0 (see LICENSE.md); text CC BY 4.0 under its Part S. Original inventor: Craig Thomas Ellrod (ORCID 0009-0004-1058-7666).
 
 Contributors MUST NOT copy PCI DSS requirement text, testing procedures, customized approach objectives, applicability notes, guidance, glossary definitions, or templates into this repository. Reference requirement identifiers and independently authored descriptions only. A Proof Protocol result is not a PCI DSS assessment, Report on Compliance, Attestation of Compliance, or validation of compliance.
 
